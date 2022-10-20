@@ -1,3 +1,6 @@
+<image src='images/YIARR5OJCFAG5AGRYZYWOGTQKE.jpg' width=100 height=100></image>
+
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=최강%20자바개발자&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JohnBannEe)](https://github.com/JohnBannEe)
